@@ -1,0 +1,31 @@
+_repo: The-Highwayman_9749
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bailey, H. C. (Henry Christopher)
+    alias: Bailey, Henry Christopher
+    birthdate: 1878
+    deathdate: 1961
+    gutenberg_agent_id: '3131'
+    url: http://www.gutenberg.org/2009/agents/3131
+    wikipedia: http://en.wikipedia.org/wiki/H._C._Bailey
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- 18th century -- Fiction'
+- !lcsh 'Miscommunication -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Conspiracies -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- GITenberg
+title: The Highwayman
+url: http://www.gutenberg.org/ebooks/9749
